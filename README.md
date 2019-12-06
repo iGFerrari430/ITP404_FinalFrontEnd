@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/iGFerrari430/ITP404_FinalFrontEnd.svg?branch=master)](https://travis-ci.com/iGFerrari430/ITP404_FinalFrontEnd)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
